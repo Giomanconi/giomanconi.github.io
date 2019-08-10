@@ -1,3 +1,12 @@
+h1{
+    font-size: 50px; 
+}
+article{ 
+    display: block;
+    text-align: left;
+    width: 650px;
+    margin: 0 auto;
+}
 .example{
     height: 300px;
     width: 1000px;
